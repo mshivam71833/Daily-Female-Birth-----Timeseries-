@@ -25,22 +25,22 @@ Cyclic patterns are similar to seasonality but occur at irregular intervals. Unl
 **6. Noise:**
 
 Noise refers to random fluctuations or irregularities in the data that are not part of the underlying pattern. Filtering out noise is crucial for accurate analysis.
-.
+
 **7. Modeling and Forecasting:**
 
 Time series analysis involves building models to understand and forecast future values. Common techniques include autoregressive integrated moving average (ARIMA), exponential smoothing methods, and machine learning models like Long Short-Term Memory (LSTM) networks.
-.
+
 **8. Data Visualization:**
 
 Visualization tools, such as line charts, bar charts, and heatmaps, are often used to visually represent time series data. Visualization aids in identifying patterns and trends.
-.
+
 **9. Stationarity:**
 
 Many time series models assume stationarity, meaning that statistical properties of the data do not change over time. Transformations like differencing may be applied to make the data stationary.
-.  
+  
 **10. Evaluation Metrics:**
 
 When building models, it's important to use appropriate evaluation metrics, such as Mean Absolute Error (MAE), Mean Squared Error (MSE), or Root Mean Squared Error (RMSE), to assess the model's performance.
-.
+
 **11. Feature Engineering:**
 Creating relevant features from the time series data can improve the performance of models. For example, lag features (past observations) or rolling statistics can be used as input features.
