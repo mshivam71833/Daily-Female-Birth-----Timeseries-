@@ -9,7 +9,7 @@ Time series data is collected at regular intervals. The intervals can be seconds
 **2. Data Points:**
 
 Each data point in a time series represents a measurement or observation taken at a specific point in time. For example, daily stock prices, monthly sales figures, or hourly temperature readings.
-.
+
 **3. Trend:**
 
 A trend represents the long-term movement or pattern in the data. It could be upward, downward, or stable. Identifying trends is essential for understanding the overall direction of the data.
