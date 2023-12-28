@@ -1,6 +1,7 @@
 # Daily-Female-Birth-----Timeseries-
 This project is based on Timeseries.
 Here are some key components and concepts related to time series for a project:
+
 .
 **1. Time Interval:**
 
