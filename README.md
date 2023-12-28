@@ -43,4 +43,5 @@ Many time series models assume stationarity, meaning that statistical properties
 When building models, it's important to use appropriate evaluation metrics, such as Mean Absolute Error (MAE), Mean Squared Error (MSE), or Root Mean Squared Error (RMSE), to assess the model's performance.
 
 **11. Feature Engineering:**
+
 Creating relevant features from the time series data can improve the performance of models. For example, lag features (past observations) or rolling statistics can be used as input features.
